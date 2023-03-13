@@ -55,7 +55,7 @@ __The Footer__
 
 
 
-## Testing 
+### Testing 
 
 I've test-driven the page on validering.w3.org for both my html code and ccs styling. In addition to that, I have tested myself via browser tools for validation. Also have to test on my two different cell phone varieties as well as an ipad.
 
