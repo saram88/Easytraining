@@ -1,108 +1,98 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Easy training
 
-Welcome USER_NAME,
+Easy training is a website that should support the person who has a motivation to start exercise but dosen´t knows where to start. You maybe never have been on a gym, or never trained at all, and for that target group, this website makes it possible to sign up so you can get access to a gallery with several vdeor, and information that will support a better health, and to actually start training!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![Responsice Mockup](/images/https5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.ioindex.html.png)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## Features 
 
-## Gitpod Reminders
+On my website there is a Home page where I immediately catch the user's attention with the help of starting training. I explain the why´s, how´s and some brief action measures what membership can bring the user for benefits in the long run.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Existing Features
+__Navigation Bar__
+- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html)
+- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#information)
+- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#signup)
+- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#contact)
 
-`python3 -m http.server`
+__The landing page image__
 
-A blue button should appear to click: _Make Public_,
+On my landing page, I have posted a photo that directly creates contact with the user. That we mean business and that we can really help to get the training done.
 
-Another blue button should appear to click: _Open Browser_.
+[Landing Page](Https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+__Do you wanna get better of training?__
 
-A blue button should appear to click: _Make Public_,
+  - Here we explain to the user why one should become a member. And why we as a company exist and what we want to fix for our targetgroup.
 
-Another blue button should appear to click: _Open Browser_.
+[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#information)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+__Get help with your training without having to pay a fortune__
 
-To log into the Heroku toolbelt CLI:
+  - In my third page, I present a video what a training exercise might look like. And In my fourth page I explain how to become a member and some brief action measures what membership can bring the user for benefits in the long run.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#information)
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+__SIGN UP__
 
-------
+  - In my fifth page, I have added a form where you sign up quickly and easily. It has a background in white to drag the user's experience into performing the sign up
 
-## Release History
+[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#information)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+__The Footer__ 
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+  - Here I have written down contact information for anyone who has any questions or wants to get in touch with us for other reasons. I also have links to our social media.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+[Footer](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#contact)
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Features Left to Implement
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- Another feature idea is to build a community that users can meet other people. Many personal trainers have that today but you need to pay for it, here you can share good idéas to each other at a much lower cost.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Testing 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+I've test-driven the page on validering.w3.org for both my html code and ccs styling. In addition to that, I have tested myself via browser tools for validation. Also have to test on my two different cell phone varieties as well as an ipad.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
-------
 
-## FAQ about the uptime script
+### Validator Testing 
 
-**Why have you added this script?**
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io%2Findex.html)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+### Unfixed Bugs
 
-**How will this affect me?**
+I don´t have any unfixed bugs.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+## Deployment
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+When I was inside my project, I went to the little tab called "Settings". From here I pressed the small sidebar and then "Pages". Here I found the heading "Branch" where you should choose "main" as your branch
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+The live link can be found here - https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html
 
-**Can I opt out?**
+## Credits 
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+### Media
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+In my project, I have chosen to download video and photographs from these links:
 
-**Anything more?**
+- https://icons8.com/icons/set/twitter
+- https://icons8.com/icons/set/facebook 
+- https://icons8.com/icons/set/instagram
+- https://pixabay.com
+- https://canva.com 
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+### Content 
 
----
-
-Happy coding!
+- The text I have written is completely independent and written by myself.

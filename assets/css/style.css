@@ -1,0 +1,225 @@
+/*@import url("https://fonts.googleapis.com");*/
+
+ 
+body {
+  margin: 0;
+  padding: 0;
+  height:100%;
+  width:100%;
+  background-color: #ad9483;
+  font-family: 'oswald', 'Sans-serif';
+  font-weight: 300;
+}  
+
+h1 { 
+  font-family: 'oswald', 'Sans-serif';
+  letter-spacing: 4px;
+  color: #0e0d0d;
+  text-align: center;
+  color: #0a0a0a;
+  margin: 80px 0 0 0;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+h2 { 
+  font-family: 'oswald', 'Sans-serif';
+  letter-spacing: 4px;
+  color: #0e0d0d;
+  text-align: center;
+  color: #0a0a0a;
+  margin: 80px 0 0 0;
+  text-transform: uppercase;
+  font-size: 32px;
+}
+
+section {
+  text-align: center;
+}
+
+#logo {
+  width: 160px;
+  height: 20vh;
+  background: url('../images/studio-1.png');
+  background-size: cover;
+}
+
+#home {
+  font-size: 110%;
+  letter-spacing: 4px;
+  color:#0e0d0d;
+  text-decoration: none;
+}
+
+.float_center {
+  float: right;
+  position: relative;
+  left: -50%;
+  text-align: center;
+  color:#0a0a0a;
+}
+
+.float_center > .child {
+  position: relative;
+  left: 50%;
+  color:#0a0a0a;
+  background-color: white;
+}
+  
+.info-box {
+  display: table;
+  width: 100%;
+  padding-top: 33px;
+}
+
+ 
+.info-box-row {
+  display: table-row;
+  padding: 10px;
+}
+
+.info-box-cell {
+  display: table-cell;
+  width: 33%;
+  padding: 10px;
+}
+
+  .clear {
+    clear:both;
+    text-align: center;
+}
+  
+  .subtitle {
+    text-align: center;
+    color:#0a0a0a;
+    margin: 0;
+    font-size: 20px;
+}
+
+  .note {
+    text-align: center;
+    color: #0a0a0a;
+}
+
+  .container {
+    width: 100vw;
+    margin: 40px auto 0 auto;
+    padding: 0px;
+    border-radius: 10px;
+    background-color: #ad9483;
+}
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+  ul li {
+    float: right;
+    list-style-type: none;
+    margin: .5em;
+    
+}
+
+  ul a {
+    display: block;
+    height: 26px;
+    line-height: 26px;
+    text-decoration: none;
+    color: #080808;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: .25em .5em;
+    border-radius: 4px;
+    background-color: #ad9483;
+}
+
+ #hero-image {
+  width: 100vw;
+  height: 50vh;
+  background: url('../images/studio.png')no-repeat center center;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ 
+}
+
+#image-down {
+  width: 100vw;
+  height: 50vh;
+  background: url('../images/woma.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+#signup {
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+.signup-container {
+  margin: auto;
+  width: 40%;
+  border: 1px solid #ac7b5b;
+  border-radius: 5px;
+  padding: 10px;
+  display: block;
+  text-align: left;
+}
+
+.signup-input {
+  border: 1px solid #ad9483;
+  display: block;
+  width: 98%;
+}
+
+.signup-input:focus {
+  background-color: #ad9483;
+  border: 1px solid #ac7b5b;
+}
+
+
+.signup-button {
+  background-color: #ad9483;
+  border: 1px solid #ac7b5b;
+  border-radius: 5px;
+  width: 65px;
+  height: 30px;
+  display: block;
+}
+
+.signup-button:hover {
+  background-color: #ac7b5b;
+}
+
+.footer {
+  display: block;
+  line-height: 26px;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: .25em .5em;
+  border-radius: 4px;
+  background-color: #ad9483;
+  text-align: center;
+}
+
+.contact-box {
+  display: table;
+  width: 100%;
+  padding-top: 33px;
+  padding-bottom: 50px;
+}
+
+ 
+.contact-box-row {
+  display: table-row;
+  padding: 10px;
+}
+
+.contact-box-cell {
+  display: table-cell;
+  width: 33%;
+}
