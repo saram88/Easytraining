@@ -142,7 +142,7 @@ section {
   background: url('../images/man.jpg')no-repeat center center;
   background-position: center center;
   background-repeat: no-repeat;
-  background-attachment:scroll;
+  background-attachment:fixed;
  
 }
 
