@@ -10,34 +10,33 @@ On my website there is a Home page where I immediately catch the user's attentio
 
 ### Existing Features
 __Navigation Bar__
-- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html)
-- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#information)
-- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#signup)
-- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#contact)
+- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html)
+- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#information)
+- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#signup)
+- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#contact)
 
 __The landing page image__
 
 On my landing page, I have posted a photo that directly creates contact with the user. That we mean business and that we can really help to get the training done.
 
-[Landing Page](Https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html)
+[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html)
 
 __Do you wanna get better of training?__
 
   - Here we explain to the user why one should become a member. And why we as a company exist and what we want to fix for our targetgroup.
 
-[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#information)
+[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#information)
 
 __Get help with your training without having to pay a fortune__
 
   - In my third page, I present a video what a training exercise might look like. And In my fourth page I explain how to become a member and some brief action measures what membership can bring the user for benefits in the long run.
 
-[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#information)
 
 __SIGN UP__
 
   - In my fifth page, I have added a form where you sign up quickly and easily. It has a background in white to drag the user's experience into performing the sign up
 
-[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#information)
+[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#signup)
 
 
 __The Footer__ 
@@ -45,7 +44,7 @@ __The Footer__
   - Here I have written down contact information for anyone who has any questions or wants to get in touch with us for other reasons. I also have links to our social media.
 
 
-[Footer](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html#contact)
+[Footer](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#contact)
 
 
 
@@ -65,9 +64,9 @@ I've test-driven the page on validering.w3.org for both my html code and ccs sty
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io%2Fassets%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io%2Fassets%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ### Unfixed Bugs
 
@@ -79,7 +78,7 @@ When I was inside my project, I went to the little tab called "Settings". From h
 
 
 
-The live link can be found here - https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu89b.gitpod.io/index.html
+The live link can be found here - https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html
 
 ## Credits 
 
