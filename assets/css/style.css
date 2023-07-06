@@ -44,12 +44,7 @@ section {
   background-size: cover;
 }
 
-#home {
-  font-size: 110%;
-  letter-spacing: 4px;
-  color:#0e0d0d;
-  text-decoration: none;
-}
+
 
 .float_center {
   float: right;
@@ -109,6 +104,14 @@ section {
 #menu {
   text-align: center;
   width: 100vW;
+}
+
+#home {
+  font-size: 110%;
+  letter-spacing: 4px;
+  color:#0e0d0d;
+  text-decoration: none;
+  margin-bottom: 10px;
 }
 
 ul {
