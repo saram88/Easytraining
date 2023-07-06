@@ -124,7 +124,6 @@ section {
 }
 
   ul a {
-    display: block;
     height: 26px;
     line-height: 26px;
     text-decoration: none;
@@ -217,7 +216,6 @@ ul a:hover {
   padding-bottom: 50px;
 }
 
- 
 .contact-box-row {
   display: table-row;
   padding: 10px;
