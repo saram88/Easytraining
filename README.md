@@ -66,6 +66,7 @@ I've test-driven the page on validering.w3.org for both my html code and ccs sty
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io%2Fassets%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ### Unfixed Bugs
+Better design for other devices 
 
 I don´t have any unfixed bugs.
 
