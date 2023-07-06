@@ -117,9 +117,9 @@ section {
 }
 
   ul li {
-    float: right;
     list-style-type: none;
     margin: .5em;
+    display: inline;
     
 }
 
