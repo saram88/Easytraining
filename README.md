@@ -10,22 +10,19 @@ On my website there is a Home page where I immediately catch the user's attentio
 
 ### Existing Features
 __Navigation Bar__
-- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html)
-- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#information)
-- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#signup)
-- [Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#contact)
+- [Landing Page](https://saram88.github.io/Project-1/)
 
 __The landing page image__
 
 On my landing page, I have posted a photo that directly creates contact with the user. That we mean business and that we can really help to get the training done.
 
-[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html)
+[Landing Page](https://saram88.github.io/Project-1/)
 
 __Do you wanna get better of training?__
 
   - Here we explain to the user why one should become a member. And why we as a company exist and what we want to fix for our targetgroup.
 
-[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#information)
+- [Landing Page](https://saram88.github.io/Project-1/#moreinformation)
 
 __Get help with your training without having to pay a fortune__
 
@@ -36,7 +33,7 @@ __SIGN UP__
 
   - In my fifth page, I have added a form where you sign up quickly and easily. It has a background in white to drag the user's experience into performing the sign up
 
-[Landing Page](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#signup)
+[Landing Page](https://saram88.github.io/Project-1/#signup)
 
 
 __The Footer__ 
@@ -44,7 +41,7 @@ __The Footer__
   - Here I have written down contact information for anyone who has any questions or wants to get in touch with us for other reasons. I also have links to our social media.
 
 
-[Footer](https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html#contact)
+[Footer](https://8000-saram88-project1-bybwh8v54k0.ws-eu101.gitpod.io/#signup)
 
 
 
@@ -78,7 +75,7 @@ When I was inside my project, I went to the little tab called "Settings". From h
 
 
 
-The live link can be found here - https://5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io/assets/index.html
+The live link can be found here - https://8000-saram88-project1-bybwh8v54k0.ws-eu101.gitpod.io/#signup
 
 ## Credits 
 
