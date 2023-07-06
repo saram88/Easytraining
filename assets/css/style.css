@@ -67,20 +67,16 @@ section {
 }
   
 .info-box {
-  display: table;
   width: 100%;
   padding-top: 33px;
 }
 
  
 .info-box-row {
-  display: table-row;
   padding: 10px;
 }
 
 .info-box-cell {
-  display: table-cell;
-  width: 33%;
   padding: 10px;
 }
 
