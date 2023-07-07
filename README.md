@@ -2,7 +2,8 @@
 
 Easy training is a website that should support the person who has a motivation to start exercise but dosen´t knows where to start. You maybe never have been on a gym, or never trained at all, and for that target group, this website makes it possible to sign up so you can get access to a gallery with several vdeor, and information that will support a better health, and to actually start training!
 
-![Responsice Mockup](/assets/images/for_readme_file.png)
+!<img src="/assets/images/Start.png" alt="drawing" width="200"/>
+
 
 ## Features 
 
@@ -29,7 +30,7 @@ __Get help with your training without having to pay a fortune__
   - In my third page, I present a video what a training exercise might look like. And In my fourth page I explain how to become a member and some brief action measures what membership can bring the user for benefits in the long run.
 
 
-__SIGN UP__
+__Sign up__
 
   - In my fifth page, I have added a form where you sign up quickly and easily. It has a background in white to drag the user's experience into performing the sign up
 
@@ -45,30 +46,42 @@ __The Footer__
 
 
 
-### Features Left to Implement
+## Features Left to Implement
 
 - Another feature idea is to build a community that users can meet other people. Many personal trainers have that today but you need to pay for it, here you can share good idéas to each other at a much lower cost.
 
 
 
-### Testing 
+## Testing 
 
 I've test-driven the page on validering.w3.org for both my html code and ccs styling. In addition to that, I have tested myself via browser tools for validation. Also have to test on my two different cell phone varieties as well as an ipad.
 
+Also from the webpage i test it in this order:
+
+1. Open my reprositary in webpage
+2. open inspect 
+3. Open design to watch my homepage in different size 
 
 
 
-### Validator Testing 
+
+## Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io%2Fassets%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io%2Fassets%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-### Unfixed Bugs
-Better design for other devices 
+## Unfixed Bugs
 
-I don´t have any unfixed bugs.
+- Better design for other devices.
+
+- I change the size of the movies to better UX when looking on a mobilephone 
+
+- I fixed my menu so it center of my first homepage picture insted
+
+- I change the content so the readibillity gets better( UX ) 
+
 
 ## Deployment
 
@@ -80,7 +93,7 @@ The live link can be found here - https://8000-saram88-project1-bybwh8v54k0.ws-e
 
 ## Credits 
 
-### Media
+## Media
 
 In my project, I have chosen to download video and photographs from these links:
 
@@ -90,6 +103,6 @@ In my project, I have chosen to download video and photographs from these links:
 - https://pixabay.com
 - https://canva.com 
 
-### Content 
+## Content 
 
 - The text I have written is completely independent and written by myself.
