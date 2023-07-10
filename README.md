@@ -2,8 +2,7 @@
 
 Easy training is a website that should support the person who has a motivation to start exercise but dosen´t knows where to start. You maybe never have been on a gym, or never trained at all, and for that target group, this website makes it possible to sign up so you can get access to a gallery with several vdeor, and information that will support a better health, and to actually start training!
 
-<img src="/assets/images/Start.png" width="200"/>
-
+<img src="Start.png" width="200"/>
 
 ## Features 
 
