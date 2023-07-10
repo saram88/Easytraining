@@ -29,7 +29,8 @@ __Get help with your training without having to pay a fortune__
   - In my third page, I present a video what a training exercise might look like. And In my fourth page I explain how to become a member and some brief action measures what membership can bring the user for benefits in the long run.
 
 
-__Sign up__
+__Sign up__   
+<img src="sign up.png" width="200"/>
 
   - In my fifth page, I have added a form where you sign up quickly and easily. It has a background in white to drag the user's experience into performing the sign up
 
@@ -62,14 +63,13 @@ Also from the webpage i test it in this order:
 3. Open design to watch my homepage in different size 
 
 
-
-
 ## Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io%2Fassets%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsaram88.github.io%2FProject-1%2F)
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F5500-saram88-helaminfullatam-fq2y2b0nxao.ws-eu90.gitpod.io%2Fassets%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsaram88.github.io%2FProject-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ## Unfixed Bugs
 
@@ -88,8 +88,7 @@ When I was inside my project, I went to the little tab called "Settings". From h
 
 
 
-The live link can be found here - https://8000-saram88-project1-bybwh8v54k0.ws-eu101.gitpod.io/#signup
-
+The live link can be found here - https://saram88.github.io/Project-1/
 ## Credits 
 
 ## Media
