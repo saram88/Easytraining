@@ -16,7 +16,7 @@ __The landing page image__
 
 On my landing page, I have posted a photo that directly creates contact with the user. That we mean business and that we can really help to get the training done.
 
-[Landing Page](https://saram88.github.io/Project-1/)
+- [Landing Page](https://saram88.github.io/Project-1/)
 
 __Do you wanna get better of training?__
 
@@ -26,20 +26,20 @@ __Do you wanna get better of training?__
 
 __Get help with your training without having to pay a fortune__
 
-  - In my third page, I present a video what a training exercise might look like. And In my fourth page I explain how to become a member and some brief action measures what membership can bring the user for benefits in the long run.
+- In my third page, I present a video what a training exercise might look like. And In my fourth page I explain how to become a member and some brief action measures what membership can bring the user for benefits in the long run.
 
 
 __Sign up__   
 <img src="sign up.png" width="200"/>
 
-  - In my fifth page, I have added a form where you sign up quickly and easily. It has a background in white to drag the user's experience into performing the sign up
+- In my fifth page, I have added a form where you sign up quickly and easily. It has a background in white to drag the user's experience into performing the sign up
 
-[Landing Page](https://saram88.github.io/Project-1/#signup)
+- [Landing Page](https://saram88.github.io/Project-1/#signup)
 
 
 __The Footer__ 
 
-  - Here I have written down contact information for anyone who has any questions or wants to get in touch with us for other reasons. I also have links to our social media.
+- Here I have written down contact information for anyone who has any questions or wants to get in touch with us for other reasons. I also have links to our social media.
 
 
 [Footer](https://8000-saram88-project1-bybwh8v54k0.ws-eu101.gitpod.io/#signup)
