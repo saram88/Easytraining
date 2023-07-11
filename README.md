@@ -10,6 +10,7 @@ On my website there is a Home page where I immediately catch the user's attentio
 
 ### Existing Features
 __Navigation Bar__
+
 - [Landing Page](https://saram88.github.io/Project-1/)
 
 __The landing page image__
@@ -20,9 +21,9 @@ On my landing page, I have posted a photo that directly creates contact with the
 
 __Do you wanna get better of training?__
 
-  - Here we explain to the user why one should become a member. And why we as a company exist and what we want to fix for our targetgroup.
+- Here we explain to the user why one should become a member. And why we as a company exist and what we want to fix for our targetgroup.
 
-- [Landing Page](https://saram88.github.io/Project-1/#moreinformation)
+[Landing Page](https://saram88.github.io/Project-1/#moreinformation)
 
 __Get help with your training without having to pay a fortune__
 
@@ -34,7 +35,7 @@ __Sign up__
 
 - In my fifth page, I have added a form where you sign up quickly and easily. It has a background in white to drag the user's experience into performing the sign up
 
-- [Landing Page](https://saram88.github.io/Project-1/#signup)
+[Landing Page](https://saram88.github.io/Project-1/#signup)
 
 
 __The Footer__ 
@@ -42,14 +43,12 @@ __The Footer__
 - Here I have written down contact information for anyone who has any questions or wants to get in touch with us for other reasons. I also have links to our social media.
 
 
-- [Footer](https://8000-saram88-project1-bybwh8v54k0.ws-eu101.gitpod.io/#signup)
-
+[Footer](https://8000-saram88-project1-bybwh8v54k0.ws-eu101.gitpod.io/#signup)
 
 
 ## Features Left to Implement
 
 - Another feature idea is to build a community that users can meet other people. Many personal trainers have that today but you need to pay for it, here you can share good idéas to each other at a much lower cost.
-
 
 
 ## Testing 
@@ -87,8 +86,8 @@ Also from the webpage i test it in this order:
 When I was inside my project, I went to the little tab called "Settings". From here I pressed the small sidebar and then "Pages". Here I found the heading "Branch" where you should choose "main" as your branch
 
 
-
 The live link can be found here - https://saram88.github.io/Project-1/
+
 ## Credits 
 
 ## Media
