@@ -42,7 +42,7 @@ __The Footer__
 - Here I have written down contact information for anyone who has any questions or wants to get in touch with us for other reasons. I also have links to our social media.
 
 
-[Footer](https://8000-saram88-project1-bybwh8v54k0.ws-eu101.gitpod.io/#signup)
+- [Footer](https://8000-saram88-project1-bybwh8v54k0.ws-eu101.gitpod.io/#signup)
 
 
 
