@@ -11,13 +11,13 @@ On my website there is a Home page where I immediately catch the user's attentio
 ### Existing Features
 __Navigation Bar__
 
-- [Landing Page](https://saram88.github.io/Project-1/)
+[Landing Page](https://saram88.github.io/Project-1/)
 
 __The landing page image__
 
 On my landing page, I have posted a photo that directly creates contact with the user. That we mean business and that we can really help to get the training done.
 
-- [Landing Page](https://saram88.github.io/Project-1/)
+[Landing Page](https://saram88.github.io/Project-1/)
 
 __Do you wanna get better of training?__
 
