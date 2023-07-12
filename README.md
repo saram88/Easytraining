@@ -80,6 +80,8 @@ Also from the webpage i test it in this order:
 
 - I change the content so the readibillity gets better( UX ) 
 
+- When I set the website in different window sizes, some do not work. Despite trying to adjust the size of   videos e.tc
+
 
 ## Deployment
 
