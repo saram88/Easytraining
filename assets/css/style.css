@@ -164,6 +164,7 @@ ul a:hover {
 #signup {
   background-color: white;
   padding-bottom: 20px;
+  padding-top: revert;
 }
 
 .signup-container {
