@@ -162,7 +162,6 @@ ul a:hover {
 }
 
 #signup {
-  background-color: white;
   padding-bottom: 20px;
   padding-top: revert;
 }
@@ -170,7 +169,7 @@ ul a:hover {
 .signup-container {
   margin: auto;
   width: 40%;
-  border: 1px solid #ac7b5b;
+  border: 1px solid #050505;
   border-radius: 5px;
   padding: 10px;
   display: block;
@@ -184,14 +183,14 @@ ul a:hover {
 }
 
 .signup-input:focus {
-  background-color: #ad9483;
-  border: 1px solid #ac7b5b;
+  background-color: #050505;
+  border: 1px solid #050505;
 }
 
 
 .signup-button {
-  background-color: #ad9483;
-  border: 1px solid #ac7b5b;
+  background-color: #050505;
+  border: 1px solid #050505;
   border-radius: 5px;
   width: 65px;
   height: 30px;
